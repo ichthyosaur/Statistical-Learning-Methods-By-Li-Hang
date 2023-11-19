@@ -4,7 +4,7 @@
 数据集在dataset文件夹中,其余模型在对应章节的文件夹下.
 ## 目前进度
 ### 第二章 
-Peceptron 原始形式
+Perceptron 原始形式
 
 ### 第三章 
 kNN
