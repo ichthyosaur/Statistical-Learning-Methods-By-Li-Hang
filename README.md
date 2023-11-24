@@ -8,3 +8,6 @@ Perceptron 原始形式
 
 ### 第三章 
 kNN
+
+### 第四章
+Naive Bayes 朴素贝叶斯
